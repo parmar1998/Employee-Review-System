@@ -1,5 +1,5 @@
 const Review = require('../models/review');
-const User = require('../models/user');
+const User = require('../models/users');
 
 // Render the sign in page
 module.exports.signIn = (req, res) => {

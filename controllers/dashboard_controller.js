@@ -1,5 +1,5 @@
 const Review = require('../models/review');
-const User = require('../models/user');
+const User = require('../models/users');
 
 // Render admin dashboard
 module.exports.adminDashboard = async (req, res) => {

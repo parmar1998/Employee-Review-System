@@ -1,4 +1,4 @@
-const User = require('../models/user');
+const User = require('../models/users');
 const Review = require('../models/review');
 
 // Asign a review
